@@ -9,6 +9,6 @@ This pattern involves a single class which is responsible to create an object wh
 ## How To Play
 Use **spacebar** or mouse **left click** to play the game.
 ## ScreenShots
-![](Screenshot 1.png)
+![](Screenshot_1.png)
 
-![](Screenshot 2.png)
+![](Screenshot_2.png)
